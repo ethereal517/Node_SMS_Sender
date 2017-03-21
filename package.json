@@ -1,0 +1,29 @@
+{
+  "name": "nexmo_sms_sender",
+  "version": "1.0.0",
+  "description": "This is Nexmo based SMS Sender",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smartguy3530/Node_Nexmo_SMS_Sender.git"
+  },
+  "keywords": [
+    "sms",
+    "node",
+    "express",
+    "rest",
+    "API"
+  ],
+  "author": "SmartGuy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smartguy3530/Node_Nexmo_SMS_Sender/issues"
+  },
+  "homepage": "https://github.com/smartguy3530/Node_Nexmo_SMS_Sender#readme",
+  "dependencies": {
+    "nexmo": "^2.0.0"
+  }
+}
