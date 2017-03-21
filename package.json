@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/smartguy3530/Node_Nexmo_SMS_Sender.git"
+    "url": "git+https://github.com/smartguy3530/Node_SMS_Sender.git"
   },
   "keywords": [
     "sms",
@@ -20,9 +20,9 @@
   "author": "SmartGuy",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/smartguy3530/Node_Nexmo_SMS_Sender/issues"
+    "url": "https://github.com/smartguy3530/Node_SMS_Sender/issues"
   },
-  "homepage": "https://github.com/smartguy3530/Node_Nexmo_SMS_Sender#readme",
+  "homepage": "https://github.com/smartguy3530/Node_SMS_Sender#readme",
   "dependencies": {
     "nexmo": "^2.0.0"
   }
